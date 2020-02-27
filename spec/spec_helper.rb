@@ -1,4 +1,4 @@
-require_relative "../square_array.rb"
+require_relative "../square_array"
 
 
 
